@@ -1,7 +1,7 @@
 id = "vanta-black"
 name = "Vanta Black"
-description = "8 pure black themes with vivid syntax colors and visible borders"
-version = "0.1.0"
+version = "0.0.1"
 schema_version = 1
-authors = ["Mustafa Manhal <mustafamanhal>"]
-repository = "https://github.com/MustafaManhal/vanta-black"
+authors = ["Mustafa Manhal"]
+description = "Vanta Black Bordered them"
+repository = "https://github.com/your-name/my-zed-extension"
