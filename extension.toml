@@ -1,0 +1,12 @@
+id = "vanta-black"
+name = "Vanta Black"
+description = "8 pure black themes with vivid syntax colors and visible borders"
+version = "0.1.0"
+schema_version = 1
+authors = ["Mustafa Manhal <mustafamanhal>"]
+repository = "https://github.com/MustafaManhall/vanta-black-zed"
+
+[themes]
+themes = [
+  "themes/vanta-black.json"
+]
